@@ -1,3 +1,3 @@
-print("Pekalian")
-c = 2 * 3
+print("Penjumlahan")
+c = 2 + 3
 print(c)
